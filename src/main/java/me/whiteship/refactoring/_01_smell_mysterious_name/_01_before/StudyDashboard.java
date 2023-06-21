@@ -25,10 +25,10 @@ public class StudyDashboard {
         GHRepository repository = gitHub.getRepository("whiteship/live-study");
         GHIssue issue = repository.getIssue(30);
 
-        List<GHIssueComment> comments = issue.getComments();
-        for (GHIssueComment comment : comments) {
+        List<GHIssueComment> reviews = issue.getComments();
+        for (GHIssueComment comment : reviews) {
             usernames.add(comment.getUserName());
-            reviews.add(comment.getBody());
+            this.reviews.add(comment.getBody());
         }
     }
 

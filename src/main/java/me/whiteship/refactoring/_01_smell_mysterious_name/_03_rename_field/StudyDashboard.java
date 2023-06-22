@@ -25,11 +25,7 @@ public class StudyDashboard {
 
         List<GHIssueComment> reviews = issue.getComments();
         for (GHIssueComment review : reviews) {
-            StudyReview studyReview = new StudyReview(review.getUserName(), review.getBody());
-            System.out.println(studyReview.review());
-            System.out.println(studyReview.reviewer());
-            studyReviews.add(studyReview);
-
+            studyReviews.add(new StudyReview(review.getUserName(), review.getBody()));
         }
     }
 

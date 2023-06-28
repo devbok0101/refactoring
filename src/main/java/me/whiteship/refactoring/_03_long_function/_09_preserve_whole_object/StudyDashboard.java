@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
@@ -84,20 +83,10 @@ public class StudyDashboard {
         }
     }
 
-    double getRate(Participant participant) {
-        long count = participant.homework()
-                .values()
-                .stream()
-                .filter(v -> v == true)
-                .count();
-
-        return (double) (count * 100 / this.totalNumberOfEvents);
-    }
-
     private String getMarkdownForParticipant(Participant participant) {
         return String.format("| %s %s | %.2f%% |%n", participant.username(),
                 checkMark(participant, this.totalNumberOfEvents),
-                getRate(participant));
+                participant.getRate(this.totalNumberOfEvents));
     }
 
     /**

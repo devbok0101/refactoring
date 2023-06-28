@@ -77,8 +77,8 @@ public class StudyDashboard {
 
             writer.print(header(participants.size()));
 
-            participants.forEach(p -> {
-                String markdownForHomework = getMarkdownForParticipant(p.username(), p.homework());
+            participants.forEach(participant -> {
+                String markdownForHomework = getMarkdownForParticipant(participant);
                 writer.print(markdownForHomework);
             });
         }
@@ -91,10 +91,10 @@ public class StudyDashboard {
         return (double) (count * 100 / this.totalNumberOfEvents);
     }
 
-    private String getMarkdownForParticipant(String username, Map<Integer, Boolean> homework) {
-        return String.format("| %s %s | %.2f%% |\n", username,
-                checkMark(homework, this.totalNumberOfEvents),
-                getRate(homework));
+    private String getMarkdownForParticipant(Participant participant) {
+        return String.format("| %s %s | %.2f%% |%n", participant.username(),
+                checkMark(participant.homework(), this.totalNumberOfEvents),
+                getRate(participant.homework()));
     }
 
     /**

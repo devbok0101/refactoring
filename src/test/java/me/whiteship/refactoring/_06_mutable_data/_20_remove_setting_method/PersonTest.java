@@ -8,10 +8,9 @@ class PersonTest {
 
     @Test
     void person() {
-        Person person = new Person();
-        person.setId(10);
-        person.setName("keesun");
+        Person person = new Person(10);
         assertEquals(10, person.getId());
+        person.setName("keesun");
         assertEquals("keesun", person.getName());
         person.setName("whiteship");
         assertEquals("whiteship", person.getName());

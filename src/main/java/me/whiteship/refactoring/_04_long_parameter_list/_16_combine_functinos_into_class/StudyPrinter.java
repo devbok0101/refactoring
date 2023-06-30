@@ -16,14 +16,14 @@ public class StudyPrinter {
         this.participants = participants;
     }
 
-    public void print(List<Participant> participants) throws IOException {
+    public void print() throws IOException {
         try (FileWriter fileWriter = new FileWriter("participants.md");
-             PrintWriter writer = new PrintWriter(fileWriter)) {
-            participants.sort(Comparator.comparing(Participant::username));
+            PrintWriter writer = new PrintWriter(fileWriter)) {
+            this.participants.sort(Comparator.comparing(Participant::username));
 
-            writer.print(header(participants.size()));
+            writer.print(header());
 
-            participants.forEach(p -> {
+            this.participants.forEach(p -> {
                 String markdownForHomework = getMarkdownForParticipant(p.username(), p.homework());
                 writer.print(markdownForHomework);
             });
@@ -31,7 +31,7 @@ public class StudyPrinter {
     }
 
     private String getMarkdownForParticipant(String username, Map<Integer, Boolean> homework) {
-        return String.format("| %s %s | %.2f%% |\n", username, checkMark(homework), getRate(homework));
+        return String.format("| %s %s | %.2f%% |%n", username, checkMark(homework), getRate(homework));
     }
 
     /**
@@ -51,7 +51,7 @@ public class StudyPrinter {
 
     private double getRate(Map<Integer, Boolean> homework) {
         long count = homework.values().stream()
-                .filter(v -> v == true)
+                .filter(v -> v)
                 .count();
         return (double) (count * 100 / this.totalNumberOfEvents);
     }
@@ -60,8 +60,8 @@ public class StudyPrinter {
      * | 참여자 (420) | 1주차 | 2주차 | 3주차 | 참석율 |
      * | --- | --- | --- | --- | --- |
      */
-    private String header(int totalNumberOfParticipants) {
-        StringBuilder header = new StringBuilder(String.format("| 참여자 (%d) |", totalNumberOfParticipants));
+    private String header() {
+        StringBuilder header = new StringBuilder(String.format("| 참여자 (%d) |", this.participants.size()));
 
         for (int index = 1; index <= this.totalNumberOfEvents; index++) {
             header.append(String.format(" %d주차 |", index));

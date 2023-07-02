@@ -11,4 +11,8 @@ public class ReadingClient {
     protected double baseRate(Month month, Year year) {
         return 10;
     }
+
+    protected EnrichReading enrichReading(Reading reading) {
+        return new EnrichReading(reading);
+    }
 }

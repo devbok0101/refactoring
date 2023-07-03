@@ -9,7 +9,7 @@ class TelephoneNumberTest {
 
     @Test
     @DisplayName("두 객체가 동일한 객체인지 테스트를 수행한다.")
-    void isEqualObjectTest() throws Exception {
+    void isEqualObjectTest() {
         TelephoneNumber firstTelephoneNumber = new TelephoneNumber("area", "1");
         TelephoneNumber secondTelephoneNumber = new TelephoneNumber("area", "1");
 

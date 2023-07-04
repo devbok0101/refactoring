@@ -7,14 +7,14 @@ public class PriceOrder {
         final double discount = Math.max(quantity - product.discountThreshold(), 0)
                 * product.basePrice() * product.discountRate();
 
-        final PriceData priceData = new PriceData();
-        return applyShippingCost(priceData, quantity, shippingMethod, basePrice, discount);
+        final PriceData priceData = new PriceData(basePrice, discount, quantity);
+        return applyShippingCost(priceData, shippingMethod);
     }
 
-    private double applyShippingCost(PriceData priceData, int quantity, ShippingMethod shippingMethod, double basePrice, double discount) {
-        final double shippingPerCase = (basePrice > shippingMethod.discountThreshold()) ?
+    private double applyShippingCost(PriceData priceData, ShippingMethod shippingMethod) {
+        final double shippingPerCase = (priceData.basePrice() > shippingMethod.discountThreshold()) ?
                 shippingMethod.discountedFee() : shippingMethod.feePerCase();
-        final double shippingCost = quantity * shippingPerCase;
-        return basePrice - discount + shippingCost;
+        final double shippingCost = priceData.quantity() * shippingPerCase;
+        return priceData.basePrice() - priceData.discount() + shippingCost;
     }
 }

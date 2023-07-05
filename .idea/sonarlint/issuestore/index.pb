@@ -97,8 +97,6 @@ jsrc/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from
 esrc/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier/Invoice.java,a/5/a50bfeb5a8847e58dba68ed23622e7da81398351
 ”
 dsrc/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier/Person.java,7/3/735e3f074b07ee0bbae72745641330d05dc25bf4
-™
-isrc/test/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier/BillingTest.java,2/6/2619dcc177baf3b428ecac8981b99462fe04aaa4
 •
 esrc/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier/Billing.java,3/3/33c0bf5fb7e898faa25e292f6bb162b84c516278
 –

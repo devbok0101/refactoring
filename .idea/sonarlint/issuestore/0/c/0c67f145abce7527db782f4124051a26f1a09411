@@ -1,0 +1,8 @@
+
+X
+java:S1117	"<Rename "perimeter" which hides the field declared at line 5.(ì›§Q8ø«õß1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ş¡µšıÿÿÿÿ8ú«õß1
+Y
+java:S1117"7Rename "area" which hides the field declared at line 6.(º¢”ùÿÿÿÿ8ú«õß1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äÍ¼8ú«õß1

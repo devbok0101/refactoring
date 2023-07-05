@@ -1,5 +1,6 @@
 package me.whiteship.refactoring._08_shotgun_surgery._27_move_field;
 
+import java.math.BigDecimal;
 import java.time.LocalDate;
 
 public class CustomerContract {
@@ -12,11 +13,13 @@ public class CustomerContract {
         this.discountRate = discountRate;
     }
 
-    public double getDiscountRate() {
-        return discountRate;
+    public void becomePreferred() {
+        this.discountRate +=0.03;
+        // 다른 작업들
     }
 
-    public void setDiscountRate(double discountRate) {
-        this.discountRate = discountRate;
+    public double applyDiscount(double amount) {
+        BigDecimal value = BigDecimal.valueOf(amount);
+        return value.subtract(value.multiply(BigDecimal.valueOf(this.discountRate))).doubleValue();
     }
 }

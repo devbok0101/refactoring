@@ -5,8 +5,9 @@ import java.util.List;
 public class OrderProcessor {
 
     public long numberOfHighPriorityOrders(List<Order> orders) {
+        final String priorityNormal = "normal";
         return orders.stream()
-                .filter(o -> o.getPriority() == "high" || o.getPriority() == "rush")
+                .filter(order -> order.getPriority().higherThan(new Priority(priorityNormal)) )
                 .count();
     }
 }

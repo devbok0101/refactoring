@@ -319,14 +319,8 @@ Q.idea/sonarlint/securityhotspotstore/0/e/0e78654d647f1af80fc5b5ea8a210050cc6d7d
 zsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/package-info.java,9/6/96076afbaf5a4845b4126c4de926cfa78b4008ad
 w
 G.idea/sonarlint/issuestore/9/e/9ed0b90dfd32fc1c50441e42a0e3acacacd7b1d0,a/0/a01d5ea728b4444e410b3e83743b3157bde1e0ba
-¿
-èsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/PartTimeEmployee.java,1/9/1996462082daf99adb447f075f4b1aff138e986f
 Å
 Q.idea/sonarlint/securityhotspotstore/e/6/e64545ed0424b8785976b5c6a07832a462ba51da,1/5/153676f8083e4bde7afdba06c0a441482d2182b2
-¿
-èsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/FullTimeEmployee.java,8/4/848983da6d17ee54d68d525e3e463d1dc934a9a7
-∏
-ásrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/Employee.java,2/3/23dc3055acf99efe6c6bea70d71c495481b8a577
 w
 G.idea/sonarlint/issuestore/0/7/07a09732c088176df8f97966e5b397863fe76621,d/d/dd8a8ed4d4495355bbfba7258fd42d0bfd725cbb
 Å

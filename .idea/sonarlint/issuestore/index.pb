@@ -433,8 +433,6 @@ Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Depa
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailMessage.java,5/7/57e34773185e77b72dc206d7e270cb50e752d74d
 ö
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailService.java,9/3/9340c54f8209ad1c3c932d052b4a62478adad2f9
-∏
-ásrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/Employee.java,2/3/23dc3055acf99efe6c6bea70d71c495481b8a577
 Ø
 src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/swtiches/Employee.java,1/2/12d58529f2b3dd2a8121ab11e1108e3099621859
 ã
@@ -447,8 +445,6 @@ Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/4
 Ésrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/swtiches/EmployeeTest.java,6/8/68c598520fda6219392e19cd3ced15e83c350429
 x
 Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Engineer.java,b/c/bc5d62ddf6a222a95afab6772786f02f41af20a8
-¿
-èsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/FullTimeEmployee.java,8/4/848983da6d17ee54d68d525e3e463d1dc934a9a7
 7
 HELP.md,1/a/1a273f73b7a477b0745593641bd708a6182c7ad5
 {
@@ -511,8 +507,6 @@ h
 esrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/Participant.java,9/a/9af371b788ee92fcf14e237986bf8a2e0d840a21
 ?
 participants.md,6/6/66d18f0cbeb2786d88252af6211f166e46fac3ed
-¿
-èsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/PartTimeEmployee.java,1/9/1996462082daf99adb447f075f4b1aff138e986f
 ô
 isrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/PaymentHistory.java,9/3/93aec03e049afac466896c3ab04e997d28808fe5
 á

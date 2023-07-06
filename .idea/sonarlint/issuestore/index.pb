@@ -439,8 +439,6 @@ jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_i
 [src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Employee.java,f/9/f9bab42d285f062a36f3ebbd4a06385f4f8bbe2b
 x
 Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/40ee23c41159e6584ef9bbc72fcbbd87996a2197
-¼
-‹src/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/EmployeeTest.java,d/6/d6c2f554e8e9b04eb4f8eb6bec9c7782c8deca49
 ´
 ƒsrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/swtiches/EmployeeTest.java,6/8/68c598520fda6219392e19cd3ced15e83c350429
 x

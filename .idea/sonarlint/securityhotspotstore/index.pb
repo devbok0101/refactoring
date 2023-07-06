@@ -475,8 +475,6 @@ Q.idea/sonarlint/securityhotspotstore/1/3/13c43e9a573b7674393f51f6ebeae81e25943f
 Q.idea/sonarlint/securityhotspotstore/e/4/e469d50afb377b0c197bcd907e958b1676dcb008,6/a/6a246f80aa05df1adb26917726deac16708b741e
 ¥
 Ésrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/swtiches/EmployeeTest.java,6/8/68c598520fda6219392e19cd3ced15e83c350429
-º
-ãsrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/EmployeeTest.java,d/6/d6c2f554e8e9b04eb4f8eb6bec9c7782c8deca49
 Å
 Q.idea/sonarlint/securityhotspotstore/2/d/2d10a1f2e00f79bfb566ce372ce8bcc6f29b7ac7,3/e/3ee51f888bdfbed48dbdc6f3c1de1f1a0f15f8e7
 w

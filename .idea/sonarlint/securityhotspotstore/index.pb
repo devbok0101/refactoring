@@ -329,8 +329,6 @@ Q.idea/sonarlint/securityhotspotstore/e/6/e64545ed0424b8785976b5c6a07832a462ba51
 ásrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/Employee.java,2/3/23dc3055acf99efe6c6bea70d71c495481b8a577
 w
 G.idea/sonarlint/issuestore/0/7/07a09732c088176df8f97966e5b397863fe76621,d/d/dd8a8ed4d4495355bbfba7258fd42d0bfd725cbb
-∂
-Ösrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/direct_inheritance/Employee.java,7/a/7a515af9c5532aa92630b1a2a07e466f5e6302cf
 Å
 Q.idea/sonarlint/securityhotspotstore/7/8/78682d28ee24d0e92b78ac5a3e842d80cb690328,7/9/791baf3952da4d26df7def688065f8d52b4d406f
 w
@@ -485,8 +483,6 @@ Q.idea/sonarlint/securityhotspotstore/e/4/e469d50afb377b0c197bcd907e958b1676dcb0
 Ésrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/swtiches/EmployeeTest.java,6/8/68c598520fda6219392e19cd3ced15e83c350429
 º
 ãsrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/EmployeeTest.java,d/6/d6c2f554e8e9b04eb4f8eb6bec9c7782c8deca49
-∫
-âsrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/direct_inheritance/EmployeeTest.java,7/2/72cadd7e1c8b14399416099978467046c5b68a05
 Å
 Q.idea/sonarlint/securityhotspotstore/2/d/2d10a1f2e00f79bfb566ce372ce8bcc6f29b7ac7,3/e/3ee51f888bdfbed48dbdc6f3c1de1f1a0f15f8e7
 w

@@ -433,8 +433,6 @@ Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Depa
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailMessage.java,5/7/57e34773185e77b72dc206d7e270cb50e752d74d
 š
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailService.java,9/3/9340c54f8209ad1c3c932d052b4a62478adad2f9
-¶
-…src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/direct_inheritance/Employee.java,7/a/7a515af9c5532aa92630b1a2a07e466f5e6302cf
 ¸
 ‡src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/Employee.java,2/3/23dc3055acf99efe6c6bea70d71c495481b8a577
 ¯
@@ -443,8 +441,6 @@ jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_i
 [src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Employee.java,f/9/f9bab42d285f062a36f3ebbd4a06385f4f8bbe2b
 x
 Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/40ee23c41159e6584ef9bbc72fcbbd87996a2197
-º
-‰src/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/direct_inheritance/EmployeeTest.java,7/2/72cadd7e1c8b14399416099978467046c5b68a05
 ¼
 ‹src/test/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/indirect_inheritance/EmployeeTest.java,d/6/d6c2f554e8e9b04eb4f8eb6bec9c7782c8deca49
 ´

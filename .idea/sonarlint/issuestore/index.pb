@@ -545,14 +545,6 @@ Xsrc/test/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovements
 Ysrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Telephone.java,7/5/75d353b2e4db282c4b66303ed952d7c31a860c7e
 v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
-®
-~src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/variation/Voyage.java,8/b/8b913cc59a68c0dabf626126bfd1f1d21b6085a5
-¶
-…src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/variation/VoyageHistory.java,4/a/4a8567578f9fc7ab70c80397e7c8d4c6947d8c27
-µ
-„src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/variation/VoyageRating.java,7/6/7605842f957355b641bacbe9c72fc56023a727e1
-¹
-ˆsrc/test/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism/variation/VoyageRatingTest.java,4/c/4cd3e85dbf4813c0e0ac076b32830c4c64c89f0e
 ‹
 [src/test/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/PersonTest.java,8/4/845039e5e6d3c3d0d0be1f6c02fa702cfe4bf7e1
 š

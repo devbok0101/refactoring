@@ -4,13 +4,20 @@ import java.util.List;
 
 public class Employee {
 
-    private String type;
+    protected String type;
 
-    private List<String> availableProjects;
+    protected List<String> availableProjects;
 
     public Employee(String type, List<String> availableProjects) {
         this.type = type;
         this.availableProjects = availableProjects;
+    }
+
+    public Employee(List<String> availableProjects) {
+        this.availableProjects = availableProjects;
+    }
+
+    public Employee() {
     }
 
     public int vacationHours() {

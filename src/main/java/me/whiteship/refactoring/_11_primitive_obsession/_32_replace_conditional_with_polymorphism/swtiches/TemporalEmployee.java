@@ -11,9 +11,4 @@ public class TemporalEmployee extends Employee{
     public int vacationHours() {
         return 32;
     }
-
-    @Override
-    public boolean canAccessTo(String project) {
-        return this.availableProjects.contains(project);
-    }
 }

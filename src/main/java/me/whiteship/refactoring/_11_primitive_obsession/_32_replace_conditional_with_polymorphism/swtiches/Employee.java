@@ -2,20 +2,17 @@ package me.whiteship.refactoring._11_primitive_obsession._32_replace_conditional
 
 import java.util.List;
 
-public class Employee {
+public abstract class Employee {
     protected List<String> availableProjects;
-    public Employee(List<String> availableProjects) {
+    protected Employee(List<String> availableProjects) {
         this.availableProjects = availableProjects;
     }
 
-    public Employee() {
+    protected Employee() {
     }
 
-    public int vacationHours() {
-        return 0;
-    }
-
+    public abstract int vacationHours();
     public boolean canAccessTo(String project) {
-        return false;
+        return this.availableProjects.contains(project);
     }
 }

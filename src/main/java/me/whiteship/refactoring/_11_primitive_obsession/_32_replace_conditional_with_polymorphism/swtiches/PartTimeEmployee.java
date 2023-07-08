@@ -12,9 +12,4 @@ public class PartTimeEmployee extends Employee{
     public int vacationHours() {
         return 80;
     }
-
-    @Override
-    public boolean canAccessTo(String project) {
-        return this.availableProjects.contains(project);
-    }
 }

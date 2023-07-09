@@ -267,8 +267,6 @@ Gsrc/main/java/me/whiteship/refactoring/_18_middle_man/package-info.java,b/e/be
 Q.idea/sonarlint/securityhotspotstore/7/7/77db9cb6883b57302ab0ff99f35dc5f08ab21783,1/7/1797a970ffc29dc3871573cc89c2a2083e62f593
 Å
 Q.idea/sonarlint/securityhotspotstore/6/e/6e2794db644d64ba1fdbe8df0f1ed5d4c6ba7b79,2/f/2fd876d60af0159652257c2575d0c3aa885ce386
-Ñ
-Tsrc/main/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovements.java,2/b/2b154516be82244ddcd766393fcb284c702a9791
 Å
 Q.idea/sonarlint/securityhotspotstore/3/7/3787ab2c1095c17b87e1726cdc7074df12620db8,2/4/24c78c5632288bf7c7641904ef1f9235549b98bc
 á

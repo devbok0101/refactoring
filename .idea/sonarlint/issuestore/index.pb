@@ -537,8 +537,6 @@ hsrc/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_var
 Ysrc/main/java/me/whiteship/refactoring/_02_duplicated_code/_01_before/StudyDashboard.java,3/d/3d7604520667718d76543be343319b590677c9af
 ˜
 hsrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/StudyDashboard.java,c/3/c3e87dad11014e9a261a2570def9e33e71fa912d
-„
-Tsrc/main/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovements.java,2/b/2b154516be82244ddcd766393fcb284c702a9791
 ˆ
 Xsrc/test/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovementsTest.java,0/d/0d4e423a8e737045f5956a4af1aec3f7784df12f
 ‰

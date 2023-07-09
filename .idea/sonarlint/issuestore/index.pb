@@ -391,10 +391,6 @@ Q.idea/sonarlint/securityhotspotstore/4/5/454d255f4c7211bbbff082090fff781c16f999
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertMessage.java,b/6/b6c1596adc396d3e6e4a197a101b9a92ac4a23fe
 š
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertService.java,6/e/6eba1a0b32097c2abcc1a2966be0fab2eebe6e6d
-Š
-Zsrc/main/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline/Author.java,2/0/20a9ba8e0633f662caa57179cc305992092a3cb7
-Ž
-^src/test/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline/AuthorTest.java,2/e/2e3da0e2e67cf4ccc66473ce85e3267cd1920d65
 ›
 ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BasicBillingPlan.java,5/a/5a839d17d7413f230dbfdb82d4e9fff2bf1cfba2
 Š

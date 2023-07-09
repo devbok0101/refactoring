@@ -385,8 +385,6 @@ Q.idea/sonarlint/securityhotspotstore/d/d/dd97cd57bb69d94a7d62c4ea07dd1a3a1aab71
 Q.idea/sonarlint/securityhotspotstore/f/7/f7f93cb4a2d91db21d709ab88a0ac216feac7f3a,7/e/7efb00ceecd8263fc5a19b62c559d57468606ded
 Å
 Q.idea/sonarlint/securityhotspotstore/4/7/479b046db4f86dbeec9985b4b1dd3237e2121243,7/e/7ecc6602c88dc425525f2a17b507c8a6fe1cfb22
-é
-^src/test/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline/AuthorTest.java,2/e/2e3da0e2e67cf4ccc66473ce85e3267cd1920d65
 w
 G.idea/sonarlint/issuestore/8/d/8d226b2ab9a7a4c49c3b9febc8d5c52237b19bd3,1/6/16bcf3a04c3898a7f41afdde4f52e721505009be
 Å
@@ -509,8 +507,6 @@ Q.idea/sonarlint/securityhotspotstore/9/5/959cf4759bd2c11daf75fdc18949dc8b4867f0
 Q.idea/sonarlint/securityhotspotstore/d/f/dfa2f059de0c2a81d1683aba006544bc72d62028,3/d/3d22e5df62e3c20fffdbb46d2a8fe5e10a65fe2d
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-ä
-Zsrc/main/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline/Author.java,2/0/20a9ba8e0633f662caa57179cc305992092a3cb7
 Å
 Q.idea/sonarlint/securityhotspotstore/b/a/bab5d10c1160611bf68da3cfddb2ee82dfc93a0c,7/c/7c7d478903831adcd25873c9857c8089448ce033
 u

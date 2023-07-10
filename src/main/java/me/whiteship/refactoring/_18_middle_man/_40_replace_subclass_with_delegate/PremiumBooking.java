@@ -10,7 +10,4 @@ public class PremiumBooking extends Booking {
         super(show, time);
         this.extra = extra;
     }
-    public boolean hasDinner() {
-        return this.extra.hasOwnProperty("dinner") && !this.isPeakDay();
-    }
 }

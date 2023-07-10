@@ -357,8 +357,6 @@ w
 G.idea/sonarlint/issuestore/e/6/e64545ed0424b8785976b5c6a07832a462ba51da,c/7/c7971d9e9cf0d9c0f261a6b9e63d01a873cc5e88
 Å
 Q.idea/sonarlint/securityhotspotstore/0/7/07a09732c088176df8f97966e5b397863fe76621,1/1/11757173835b7e7e047fa868e163544825db708a
-ô
-isrc/test/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/BookingTest.java,e/b/ebf57586ffb067f03fc2e85ab70254ecd9a123aa
 Å
 Q.idea/sonarlint/securityhotspotstore/9/e/9ed0b90dfd32fc1c50441e42a0e3acacacd7b1d0,d/7/d7cdddb50f7d8a3e01fcee9fa754ec2224487f77
 Å
@@ -505,10 +503,6 @@ w
 G.idea/sonarlint/issuestore/f/2/f2d4e3e34adb8f482e9732f10c4c06386b0a8f83,2/0/2031acb2b2321371b6c954ea1f0eb5caec91d616
 Å
 Q.idea/sonarlint/securityhotspotstore/4/5/454d255f4c7211bbbff082090fff781c16f99958,f/9/f9fc22b822f822858d6a86cf9450c4867c1d2e68
-ú
-lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumBooking.java,5/b/5b936d218064dcf4f282d6110a925b6adcb22e29
-ï
-esrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/Booking.java,6/8/68cca6e2c4a9723f66a8d2dee62ac2f99d08bce2
 ö
 jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumExtra.java,a/b/ab3f6df6d00737d3ce82cd166587b96e2a9d8d8e
 h

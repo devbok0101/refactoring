@@ -397,10 +397,6 @@ ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_specia
 Zsrc/test/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable/BeforeTest.java,9/b/9b534974c8a4afb47d7dcbe851d278f18d95e1aa
 ñ
 fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BillingPlan.java,8/c/8cfc5edab61b49160465ed3d991f38f73ec10093
-ï
-esrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/Booking.java,6/8/68cca6e2c4a9723f66a8d2dee62ac2f99d08bce2
-ô
-isrc/test/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/BookingTest.java,e/b/ebf57586ffb067f03fc2e85ab70254ecd9a123aa
 ú
 lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/CategoryItem.java,d/4/d497da27d86b113445e5be5d8212e980cf1a8a5c
 w
@@ -485,8 +481,6 @@ esrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_
 participants.md,6/6/66d18f0cbeb2786d88252af6211f166e46fac3ed
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-ú
-lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumBooking.java,5/b/5b936d218064dcf4f282d6110a925b6adcb22e29
 ö
 jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumExtra.java,a/b/ab3f6df6d00737d3ce82cd166587b96e2a9d8d8e
 è

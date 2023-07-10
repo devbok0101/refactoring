@@ -9,9 +9,21 @@ public class Booking {
 
     protected LocalDateTime time;
 
+    protected PremiumDelegate premiumDelegate;
+
     public Booking(Show show, LocalDateTime time) {
         this.show = show;
         this.time = time;
+    }
+
+    public static Booking createBooking(Show show, LocalDateTime time) {
+        return new Booking(show, time);
+    }
+
+    public static Booking createPremiumBooking(Show show, LocalDateTime time, PremiumExtra extra) {
+        PremiumBooking premiumBooking = new PremiumBooking(show, time, extra);
+        premiumBooking.premiumDelegate = new PremiumDelegate(premiumBooking, extra);
+        return premiumBooking;
     }
 
     public boolean hasTalkback() {

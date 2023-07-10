@@ -409,8 +409,6 @@ Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2f
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-ä
-Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Department.java,4/e/4e18a6c4d5918c65ed4bc780a825aef373f5dce3
 ã
 [src/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Department.java,a/2/a2417dfeb727370e4507fc4056c6f92d9f5c115b
 ç
@@ -515,18 +513,12 @@ hsrc/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_var
 Ysrc/main/java/me/whiteship/refactoring/_02_duplicated_code/_01_before/StudyDashboard.java,3/d/3d7604520667718d76543be343319b590677c9af
 ò
 hsrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/StudyDashboard.java,c/3/c3e87dad11014e9a261a2570def9e33e71fa912d
-â
-Ysrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Telephone.java,7/5/75d353b2e4db282c4b66303ed952d7c31a860c7e
 v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
 ã
 [src/test/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/PersonTest.java,8/4/845039e5e6d3c3d0d0be1f6c02fa702cfe4bf7e1
 ö
 jsrc/test/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/ScrollTest.java,a/9/a90fb27d7e796ee048045b4f3bcac5c793dd02ae
-ä
-Zsrc/test/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/PersonTest.java,d/1/d17521f4e0f25fae352fad11a58fa6945658eeba
-Ü
-Vsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Person.java,1/4/147a050ce0fc462964fe214bfabc01a3bcd77f71
 á
 Wsrc/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_27_move_field/Customer.java,8/2/821e7dec88447d0c1382c11bb241a079ace0587c
 ì

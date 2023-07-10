@@ -229,8 +229,6 @@ w
 G.idea/sonarlint/issuestore/c/9/c9062608b6f04bed06c03002884f3cf26a8b1123,a/d/ade86234ffef3e3358111f7bf6dea76ea4ea8b3f
 |
 Lsrc/main/java/me/whiteship/refactoring/_02_duplicated_code/package-info.java,d/5/d52ce835dce998e2cf94e73af3b0a8c77262541f
-ä
-Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Department.java,4/e/4e18a6c4d5918c65ed4bc780a825aef373f5dce3
 w
 Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
 v
@@ -507,8 +505,6 @@ w
 G.idea/sonarlint/issuestore/a/2/a2aec8aff7ade86f508b338fd4401b40bdd00551,3/8/3871ca93779bb6cfd9ee47e002a5b0afcd4d3956
 w
 G.idea/sonarlint/issuestore/f/2/f2d4e3e34adb8f482e9732f10c4c06386b0a8f83,2/0/2031acb2b2321371b6c954ea1f0eb5caec91d616
-â
-Ysrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Telephone.java,7/5/75d353b2e4db282c4b66303ed952d7c31a860c7e
 Å
 Q.idea/sonarlint/securityhotspotstore/4/5/454d255f4c7211bbbff082090fff781c16f99958,f/9/f9fc22b822f822858d6a86cf9450c4867c1d2e68
 ú
@@ -525,10 +521,6 @@ h
 [src/test/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/PersonTest.java,8/4/845039e5e6d3c3d0d0be1f6c02fa702cfe4bf7e1
 ö
 jsrc/test/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/ScrollTest.java,a/9/a90fb27d7e796ee048045b4f3bcac5c793dd02ae
-Ü
-Vsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Person.java,1/4/147a050ce0fc462964fe214bfabc01a3bcd77f71
-ä
-Zsrc/test/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/PersonTest.java,d/1/d17521f4e0f25fae352fad11a58fa6945658eeba
 ì
 csrc/test/java/me/whiteship/refactoring/_08_shotgun_surgery/_27_move_field/CustomerContractTest.java,f/7/f7870549b881da5363059f776b26b8727c1353e9
 è

@@ -5,6 +5,8 @@ public class Person {
     private String name;
     private Department department;
 
+    private Manager manager;
+
     public Person() {
     }
 
@@ -24,11 +26,11 @@ public class Person {
         return department;
     }
 
-    Person getManager() {
-        return getDepartment().getManager();
+    Manager getManager() {
+        return this.manager;
     }
 
-    public void setDepartment(Department department) {
-        this.department = department;
+    public void setManager(Manager manager) {
+        this.manager = manager;
     }
 }

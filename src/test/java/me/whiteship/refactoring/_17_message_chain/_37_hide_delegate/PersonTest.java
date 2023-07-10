@@ -9,10 +9,10 @@ class PersonTest {
     @Test
     void manager() {
         Person keesun = new Person("keesun");
-        Person nick = new Person("nick");
-        keesun.setDepartment(new Department("m365deploy", nick));
+        Manager nick = new Manager("nick");
+        keesun.setManager(new Manager("nick"));
 
-        Person manager = keesun.getManager();
+        Manager manager = keesun.getManager();
         assertEquals(nick, manager);
     }
 

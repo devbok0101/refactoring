@@ -27,7 +27,7 @@ public class Booking {
     }
 
     public boolean hasTalkback() {
-        return (this.premiumDelegate.hasTalkback()) ? this.premiumDelegate.hasTalkback()
+        return (this.premiumDelegate != null) ? this.premiumDelegate.hasTalkback()
                 : this.show.hasOwnProperty("talkback") && !this.isPeakDay();
     }
 

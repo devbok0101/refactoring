@@ -237,14 +237,10 @@ v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
 ô
 isrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/PaymentHistory.java,9/3/93aec03e049afac466896c3ab04e997d28808fe5
-ö
-jsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/CustomerService.java,9/0/9070b126f2f1a106b015a93395fb709cff59fa87
 õ
 ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BasicBillingPlan.java,5/a/5a839d17d7413f230dbfdb82d4e9fff2bf1cfba2
 ñ
 fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BillingPlan.java,8/c/8cfc5edab61b49160465ed3d991f38f73ec10093
-è
-_src/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/Site.java,c/d/cd1856bea9386d98f7af9854ec7367cb39e80f46
 |
 Lsrc/main/java/me/whiteship/refactoring/_16_temporary_field/package-info.java,6/3/63bf6710c5759dbaaa360809b0c42960d8d723b2
 Å
@@ -417,8 +413,6 @@ Q.idea/sonarlint/securityhotspotstore/a/d/ad0e941023f2f1a4ef1cadd8b98a6f8601d8b9
 Q.idea/sonarlint/securityhotspotstore/0/b/0b225a67e3e584d061bc024d658b9ddb1e05a520,0/7/07770995a136d6fbb2db47aaef1f1b6bbed86136
 Å
 Q.idea/sonarlint/securityhotspotstore/5/d/5d8c156417859810959e6e3896b84459a0779818,2/6/261b27b56834a338babe81bb1091ee046be9a2fb
-à
-Xsrc/test/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovementsTest.java,0/d/0d4e423a8e737045f5956a4af1aec3f7784df12f
 Å
 Q.idea/sonarlint/securityhotspotstore/5/1/51af554c11921b2395962a55fe11552cde4d13a2,3/d/3d1b128a6ff23a9f8ed4fbb3de365c0d7c0847a0
 Å

@@ -409,8 +409,6 @@ Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2f
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-ö
-jsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/CustomerService.java,9/0/9070b126f2f1a106b015a93395fb709cff59fa87
 ä
 Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Department.java,4/e/4e18a6c4d5918c65ed4bc780a825aef373f5dce3
 ã
@@ -511,8 +509,6 @@ fsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_wi
 fsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Shipping.java,4/9/4936cc1a1ec8185b6deec62a6309d5befe349c97
 í
 bsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/Show.java,f/e/fe900a333dcbb040e9509b83e8d3e52c1c242811
-è
-_src/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/Site.java,c/d/cd1856bea9386d98f7af9854ec7367cb39e80f46
 ¢
 rsrc/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration/StudyDashboard.java,3/2/3228cdb8e268d0fb22570f4ab80e86294fb11949
 ò
@@ -521,8 +517,6 @@ hsrc/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_var
 Ysrc/main/java/me/whiteship/refactoring/_02_duplicated_code/_01_before/StudyDashboard.java,3/d/3d7604520667718d76543be343319b590677c9af
 ò
 hsrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/StudyDashboard.java,c/3/c3e87dad11014e9a261a2570def9e33e71fa912d
-à
-Xsrc/test/java/me/whiteship/refactoring/_12_repeated_swtiches/SwitchImprovementsTest.java,0/d/0d4e423a8e737045f5956a4af1aec3f7784df12f
 â
 Ysrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Telephone.java,7/5/75d353b2e4db282c4b66303ed952d7c31a860c7e
 v

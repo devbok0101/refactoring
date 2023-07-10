@@ -4,4 +4,9 @@ public class UnknownCustomer extends Customer{
     public UnknownCustomer() {
         super("unknown", null, null);
     }
+
+    @Override
+    public boolean isUnknown() {
+        return true;
+    }
 }

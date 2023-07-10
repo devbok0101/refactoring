@@ -16,13 +16,13 @@ class BookingTest {
         LocalDateTime nonePeakDay = LocalDateTime.of(2022, 1, 20, 19, 0);
         LocalDateTime peakDay = LocalDateTime.of(2022, 1, 15, 19, 0);
 
-        assertFalse(new Booking(noTalkbackShow, nonePeakDay).hasTalkback());
-        assertTrue(new Booking(talkbackShow, nonePeakDay).hasTalkback());
-        assertFalse(new Booking(talkbackShow, peakDay).hasTalkback());
+        assertFalse(Booking.createBooking(noTalkbackShow, nonePeakDay).hasTalkback());
+        assertTrue(Booking.createBooking(talkbackShow, nonePeakDay).hasTalkback());
+        assertFalse(Booking.createBooking(talkbackShow, peakDay).hasTalkback());
 
         PremiumExtra premiumExtra = new PremiumExtra(List.of(), 50);
-        assertTrue(new PremiumBooking(talkbackShow, peakDay, premiumExtra).hasTalkback());
-        assertFalse(new PremiumBooking(noTalkbackShow, peakDay, premiumExtra).hasTalkback());
+        assertTrue(Booking.createPremiumBooking(talkbackShow, peakDay, premiumExtra).hasTalkback());
+        assertFalse(Booking.createPremiumBooking(noTalkbackShow, peakDay, premiumExtra).hasTalkback());
     }
 
     @Test

@@ -21,13 +21,14 @@ public class Booking {
     }
 
     public static Booking createPremiumBooking(Show show, LocalDateTime time, PremiumExtra extra) {
-        PremiumBooking premiumBooking = new PremiumBooking(show, time, extra);
-        premiumBooking.premiumDelegate = new PremiumDelegate(premiumBooking, extra);
-        return premiumBooking;
+        PremiumBooking booking = new PremiumBooking(show, time, extra);
+        booking.premiumDelegate = new PremiumDelegate(booking, extra);
+        return booking;
     }
 
     public boolean hasTalkback() {
-        return this.show.hasOwnProperty("talkback") && !this.isPeakDay();
+        return (this.premiumDelegate.hasTalkback()) ? this.premiumDelegate.hasTalkback()
+                : this.show.hasOwnProperty("talkback") && !this.isPeakDay();
     }
 
     protected boolean isPeakDay() {

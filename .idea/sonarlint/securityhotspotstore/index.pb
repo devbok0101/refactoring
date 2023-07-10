@@ -235,8 +235,6 @@ w
 Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
 v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
-ì
-csrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/Customer.java,9/5/951548ddb88c2b536182816d4a4b84576e4f1162
 ô
 isrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/PaymentHistory.java,9/3/93aec03e049afac466896c3ab04e997d28808fe5
 ö
@@ -329,8 +327,6 @@ jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_i
 csrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Order.java,8/9/891661e30a718e21fd2fe2964cf88dfcd5420209
 ö
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertMessage.java,b/6/b6c1596adc396d3e6e4a197a101b9a92ac4a23fe
-ó
-gsrc/main/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code/Reservation.java,c/5/c527927fb8243157e0bb9a54d5aea9b46bf03aae
 Å
 Q.idea/sonarlint/securityhotspotstore/0/a/0ae672b41cbadea399836ed8e640c578acbe1518,4/9/49a2b6add2805571a66c2d85c0e5216334631f56
 É
@@ -435,8 +431,6 @@ Q.idea/sonarlint/securityhotspotstore/3/3/33859bc002fb5629843ba44cd8c7a038e9a618
 Q.idea/sonarlint/securityhotspotstore/7/3/735e3f074b07ee0bbae72745641330d05dc25bf4,9/7/9761e9515e80b050c49d85e381a70ada68f117d3
 {
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
-û
-nsrc/test/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/CustomerServiceTest.java,8/a/8a55f7f1c243c104dd20dcc2f688baefee315784
 Å
 Q.idea/sonarlint/securityhotspotstore/d/0/d03c7bd2241cd43601c53708820a5344c5d983dd,1/6/167b6cec49d8b5a74a79c24f6778a36d6adbcf3b
 Å
@@ -447,8 +441,6 @@ Q.idea/sonarlint/securityhotspotstore/c/e/ce7def11e4661499e19ecf0c91e135bcc57aaa
 Q.idea/sonarlint/securityhotspotstore/c/8/c838164e17d6f36bb9da6103a7e3cffb093afcc4,4/4/441d195eb7aa76f4b28d6b110b6901ac589ca7bb
 Å
 Q.idea/sonarlint/securityhotspotstore/d/2/d249fcf624ff79712be58fa787a63786eb587564,8/0/80387c3bde6989dd9d758e855e9ea4161043fe8c
-õ
-ksrc/test/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code/ReservationTest.java,0/d/0dd335a4b69f0b26218e097259e659fc338e09cb
 Å
 Q.idea/sonarlint/securityhotspotstore/1/3/13c43e9a573b7674393f51f6ebeae81e25943f07,7/a/7afe8b47b7ff28e759bb3e65ace7e64a2e570d57
 Å

@@ -407,14 +407,10 @@ w
 Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
 {
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
-“
-csrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/Customer.java,9/5/951548ddb88c2b536182816d4a4b84576e4f1162
 ‰
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
 š
 jsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/CustomerService.java,9/0/9070b126f2f1a106b015a93395fb709cff59fa87
-ž
-nsrc/test/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/CustomerServiceTest.java,8/a/8a55f7f1c243c104dd20dcc2f688baefee315784
 Š
 Zsrc/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate/Department.java,4/e/4e18a6c4d5918c65ed4bc780a825aef373f5dce3
 ‹
@@ -507,10 +503,6 @@ jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with
 _src/test/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase/PriceOrderTest.java,7/2/72dae5e1c46657e51363ce6500c5fb4c406ade9f
 u
 Esrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Quota.java,6/a/6a0da525f8d1cba1da562fc064d8feeda0b3481e
-—
-gsrc/main/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code/Reservation.java,c/5/c527927fb8243157e0bb9a54d5aea9b46bf03aae
-›
-ksrc/test/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code/ReservationTest.java,0/d/0dd335a4b69f0b26218e097259e659fc338e09cb
 x
 Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Salesman.java,d/c/dc36957e889b798f33931e6682fb70a7447a9bb5
 –

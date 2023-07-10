@@ -9,4 +9,9 @@ public class UnknownCustomer extends Customer{
     public boolean isUnknown() {
         return true;
     }
+
+    @Override
+    public String getName() {
+        return "occupant";
+    }
 }

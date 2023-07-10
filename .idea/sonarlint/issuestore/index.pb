@@ -407,8 +407,6 @@ w
 Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
 {
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
-ï
-esrc/main/java/me/whiteship/refactoring/_14_lazy_elements/_34_collapse_hierarchy/CourtReservation.java,1/5/15f203ea708d0f31ca7aa39bac7e6d5a59e2e8d7
 ì
 csrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/Customer.java,9/5/951548ddb88c2b536182816d4a4b84576e4f1162
 â
@@ -509,8 +507,6 @@ jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with
 _src/test/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase/PriceOrderTest.java,7/2/72dae5e1c46657e51363ce6500c5fb4c406ade9f
 u
 Esrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Quota.java,6/a/6a0da525f8d1cba1da562fc064d8feeda0b3481e
-ê
-`src/main/java/me/whiteship/refactoring/_14_lazy_elements/_34_collapse_hierarchy/Reservation.java,0/6/06abfd3267f2de437bbe0dc8b2370c1f758d8fae
 ó
 gsrc/main/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code/Reservation.java,c/5/c527927fb8243157e0bb9a54d5aea9b46bf03aae
 õ

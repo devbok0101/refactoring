@@ -235,8 +235,6 @@ w
 Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
 v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
-™
-isrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/PaymentHistory.java,9/3/93aec03e049afac466896c3ab04e997d28808fe5
 ›
 ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BasicBillingPlan.java,5/a/5a839d17d7413f230dbfdb82d4e9fff2bf1cfba2
 –

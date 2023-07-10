@@ -487,8 +487,6 @@ h
 esrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/Participant.java,9/a/9af371b788ee92fcf14e237986bf8a2e0d840a21
 ?
 participants.md,6/6/66d18f0cbeb2786d88252af6211f166e46fac3ed
-™
-isrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/PaymentHistory.java,9/3/93aec03e049afac466896c3ab04e997d28808fe5
 ‡
 Wsrc/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Person.java,0/7/079d8959c4d8063aa857e1734c494b6e29531ae5
 7

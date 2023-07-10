@@ -7,13 +7,11 @@ public class CustomerService {
     }
 
     public BillingPlan billingPlan(Site site) {
-        Customer customer = site.getCustomer();
-        return customer.isUnknown() ? new BasicBillingPlan() : customer.getBillingPlan();
+        return site.getCustomer().getBillingPlan();
     }
 
     public int weeksDelinquent(Site site) {
-        Customer customer = site.getCustomer();
-        return customer.isUnknown() ? 0 : customer.getPaymentHistory().getWeeksDelinquentInLastYear();
+        return site.getCustomer().getPaymentHistory().getWeeksDelinquentInLastYear();
     }
 
 }

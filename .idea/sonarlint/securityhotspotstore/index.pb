@@ -255,8 +255,6 @@ Q.idea/sonarlint/securityhotspotstore/7/7/77db9cb6883b57302ab0ff99f35dc5f08ab217
 Q.idea/sonarlint/securityhotspotstore/6/e/6e2794db644d64ba1fdbe8df0f1ed5d4c6ba7b79,2/f/2fd876d60af0159652257c2575d0c3aa885ce386
 Å
 Q.idea/sonarlint/securityhotspotstore/3/7/3787ab2c1095c17b87e1726cdc7074df12620db8,2/4/24c78c5632288bf7c7641904ef1f9235549b98bc
-á
-Wsrc/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Person.java,0/7/079d8959c4d8063aa857e1734c494b6e29531ae5
 Å
 Q.idea/sonarlint/securityhotspotstore/2/c/2ce684c70cc540cbaa3b3b7763b5219ff94b3d10,c/e/cee5df91008789fb52c5b3de88e4659816d515fa
 Å
@@ -515,10 +513,6 @@ esrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with
 jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumExtra.java,a/b/ab3f6df6d00737d3ce82cd166587b96e2a9d8d8e
 h
 8src/main/java/me/whiteship/refactoring/package-info.java,f/b/fb2a043e3cf8daa2894be55ea596336246f7e334
-ã
-[src/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Department.java,a/2/a2417dfeb727370e4507fc4056c6f92d9f5c115b
-ã
-[src/test/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/PersonTest.java,8/4/845039e5e6d3c3d0d0be1f6c02fa702cfe4bf7e1
 ö
 jsrc/test/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/ScrollTest.java,a/9/a90fb27d7e796ee048045b4f3bcac5c793dd02ae
 ì

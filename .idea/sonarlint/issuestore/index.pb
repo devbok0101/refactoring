@@ -409,8 +409,6 @@ Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2f
 Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-ã
-[src/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Department.java,a/2/a2417dfeb727370e4507fc4056c6f92d9f5c115b
 ç
 ]src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Department.java,b/e/beb243288d38b930909b2e9f78e096921d87c95e
 ö
@@ -485,8 +483,6 @@ h
 esrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/Participant.java,9/a/9af371b788ee92fcf14e237986bf8a2e0d840a21
 ?
 participants.md,6/6/66d18f0cbeb2786d88252af6211f166e46fac3ed
-á
-Wsrc/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/Person.java,0/7/079d8959c4d8063aa857e1734c494b6e29531ae5
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 ú
@@ -515,8 +511,6 @@ Ysrc/main/java/me/whiteship/refactoring/_02_duplicated_code/_01_before/StudyDash
 hsrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/StudyDashboard.java,c/3/c3e87dad11014e9a261a2570def9e33e71fa912d
 v
 Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
-ã
-[src/test/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man/PersonTest.java,8/4/845039e5e6d3c3d0d0be1f6c02fa702cfe4bf7e1
 ö
 jsrc/test/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/ScrollTest.java,a/9/a90fb27d7e796ee048045b4f3bcac5c793dd02ae
 á

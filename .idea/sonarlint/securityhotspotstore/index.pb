@@ -149,8 +149,6 @@ Zsrc/main/java/me/whiteship/refactoring/_07_divergent_change/_25_move_function/A
 ]src/main/java/me/whiteship/refactoring/_06_mutable_data/_20_remove_setting_method/Person.java,a/2/a2aec8aff7ade86f508b338fd4401b40bdd00551
 ë
 asrc/main/java/me/whiteship/refactoring/_06_mutable_data/_23_change_reference_to_value/Person.java,4/5/454d255f4c7211bbbff082090fff781c16f99958
-é
-^src/main/java/me/whiteship/refactoring/_22_data_class/_42_encapsulate_record/Organization.java,7/2/72eeef741252e1039c3e081e966f800cdd9c266d
 w
 Gsrc/main/java/me/whiteship/refactoring/_22_data_class/package-info.java,f/3/f3dbea2ac6d62476610d37cfd2168bd6c97dc7e9
 ú
@@ -295,8 +293,6 @@ vsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type
 Q.idea/sonarlint/securityhotspotstore/c/2/c2877e2310eb528f382c2deeae523b86cf859532,e/6/e6f2bd2241418d200274f2ec0c37d9c1a98b6641
 ì
 csrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Order.java,8/9/891661e30a718e21fd2fe2964cf88dfcd5420209
-ö
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertMessage.java,b/6/b6c1596adc396d3e6e4a197a101b9a92ac4a23fe
 Å
 Q.idea/sonarlint/securityhotspotstore/0/a/0ae672b41cbadea399836ed8e640c578acbe1518,4/9/49a2b6add2805571a66c2d85c0e5216334631f56
 É

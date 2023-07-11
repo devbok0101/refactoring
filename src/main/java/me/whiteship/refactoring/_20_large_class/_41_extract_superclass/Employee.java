@@ -6,16 +6,16 @@ public class Employee extends Party {
 
     private double monthlyCost;
 
+    public Employee(String name) {
+        super(name);
+    }
+
     public double annualCost() {
         return this.monthlyCost * 12;
     }
 
     public Integer getId() {
         return id;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public double getMonthlyCost() {

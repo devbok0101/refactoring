@@ -4,12 +4,10 @@ import java.util.List;
 
 public class Department extends Party{
 
-    private String name;
-
     private List<Employee> staff;
 
-    public String getName() {
-        return name;
+    public Department(String name) {
+        super(name);
     }
 
     public List<Employee> getStaff() {

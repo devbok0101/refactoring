@@ -291,12 +291,6 @@ w
 G.idea/sonarlint/issuestore/0/a/0ae672b41cbadea399836ed8e640c578acbe1518,c/8/c8da72c362b7c1540e476f3d7b72128c05d8fe64
 ¶
 vsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/package-info.java,1/5/152d3e76bdc342de09a7025b8a57eb3a458158e9
-ú
-lsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/OrderProcessor.java,b/3/b35a5d21cea8b1f165f73845471600fd90d3926e
-ö
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailMessage.java,5/7/57e34773185e77b72dc206d7e270cb50e752d74d
-ö
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Notification.java,7/4/746ad37359119077d418e95f169a248cd7611500
 Å
 Q.idea/sonarlint/securityhotspotstore/c/2/c2877e2310eb528f382c2deeae523b86cf859532,e/6/e6f2bd2241418d200274f2ec0c37d9c1a98b6641
 ô
@@ -337,8 +331,6 @@ Q.idea/sonarlint/securityhotspotstore/a/4/a4f8c34e067a3726990083becbf4fb0ba905d8
 Q.idea/sonarlint/securityhotspotstore/8/4/849f3c398ace37706a664e817db9de9f3e585f07,6/e/6e33c3c88d3cd7830fe9fc2f10383a9914445d63
 ñ
 fsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Shipping.java,4/9/4936cc1a1ec8185b6deec62a6309d5befe349c97
-ö
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailService.java,9/3/9340c54f8209ad1c3c932d052b4a62478adad2f9
 w
 G.idea/sonarlint/issuestore/d/d/dd97cd57bb69d94a7d62c4ea07dd1a3a1aab71d6,b/e/be522992cb68cd70c99c5ca8079b9c5a37c1d3e3
 Å

@@ -397,10 +397,6 @@ fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_specia
 lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/CategoryItem.java,d/4/d497da27d86b113445e5be5d8212e980cf1a8a5c
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/40ee23c41159e6584ef9bbc72fcbbd87996a2197
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Engineer.java,b/c/bc5d62ddf6a222a95afab6772786f02f41af20a8
 7
 HELP.md,1/a/1a273f73b7a477b0745593641bd708a6182c7ad5
 {
@@ -459,10 +455,6 @@ esrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_
 jsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate/PremiumExtra.java,a/b/ab3f6df6d00737d3ce82cd166587b96e2a9d8d8e
 è
 _src/test/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase/PriceOrderTest.java,7/2/72dae5e1c46657e51363ce6500c5fb4c406ade9f
-u
-Esrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Quota.java,6/a/6a0da525f8d1cba1da562fc064d8feeda0b3481e
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Salesman.java,d/c/dc36957e889b798f33931e6682fb70a7447a9bb5
 ñ
 fsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/Scroll.java,d/6/d67c4b17832719cc9993c67b60a0d18f8d9e9f50
 ñ

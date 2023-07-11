@@ -253,14 +253,6 @@ Q.idea/sonarlint/securityhotspotstore/0/c/0c82ff434a7ecb468bde9e438b7467a8637ac6
 Msrc/main/java/me/whiteship/refactoring/_07_divergent_change/package-info.java,6/d/6d5ec41480a7efd85ec3ade3b4b6ce84d84062cd
 w
 G.idea/sonarlint/issuestore/6/e/6e2794db644d64ba1fdbe8df0f1ed5d4c6ba7b79,d/7/d7db41544b15dc7f95c4bc8d4e11749228470624
-u
-Esrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Quota.java,6/a/6a0da525f8d1cba1da562fc064d8feeda0b3481e
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/40ee23c41159e6584ef9bbc72fcbbd87996a2197
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Engineer.java,b/c/bc5d62ddf6a222a95afab6772786f02f41af20a8
-x
-Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Salesman.java,d/c/dc36957e889b798f33931e6682fb70a7447a9bb5
 Ä
 Psrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/package-info.java,c/6/c69378ca3132f45f2b472e8429230b22fdb1ddc7
 Å

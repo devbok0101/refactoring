@@ -389,8 +389,6 @@ G.idea/sonarlint/issuestore/f/2/f2d4e3e34adb8f482e9732f10c4c06386b0a8f83,2/0/20
 Q.idea/sonarlint/securityhotspotstore/4/5/454d255f4c7211bbbff082090fff781c16f99958,f/9/f9fc22b822f822858d6a86cf9450c4867c1d2e68
 š
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertMessage.java,b/6/b6c1596adc396d3e6e4a197a101b9a92ac4a23fe
-š
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertService.java,6/e/6eba1a0b32097c2abcc1a2966be0fab2eebe6e6d
 ›
 ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BasicBillingPlan.java,5/a/5a839d17d7413f230dbfdb82d4e9fff2bf1cfba2
 Š
@@ -413,8 +411,6 @@ Ksrc/main/java/me/whiteship/refactoring/_05_global_data/_01_before/Home.java,b/
 jsrc/main/java/me/whiteship/refactoring/_04_long_parameter_list/_14_replace_parameter_with_query/Order.java,d/d/dd2b63fb8355542240365c2f648da355287f3035
 “
 csrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Order.java,8/9/891661e30a718e21fd2fe2964cf88dfcd5420209
-™
-isrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/OrderAlerts.java,4/a/4a6d34ecfc8307202dc9b6efbb7b9e83d7abffaa
 Ž
 ^src/main/java/me/whiteship/refactoring/_22_data_class/_42_encapsulate_record/Organization.java,7/2/72eeef741252e1039c3e081e966f800cdd9c266d
 |

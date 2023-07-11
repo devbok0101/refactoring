@@ -293,10 +293,6 @@ G.idea/sonarlint/issuestore/0/a/0ae672b41cbadea399836ed8e640c578acbe1518,c/8/c8
 vsrc/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses/package-info.java,1/5/152d3e76bdc342de09a7025b8a57eb3a458158e9
 Å
 Q.idea/sonarlint/securityhotspotstore/c/2/c2877e2310eb528f382c2deeae523b86cf859532,e/6/e6f2bd2241418d200274f2ec0c37d9c1a98b6641
-ô
-isrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/OrderAlerts.java,4/a/4a6d34ecfc8307202dc9b6efbb7b9e83d7abffaa
-ö
-jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/AlertService.java,6/e/6eba1a0b32097c2abcc1a2966be0fab2eebe6e6d
 ì
 csrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/Order.java,8/9/891661e30a718e21fd2fe2964cf88dfcd5420209
 ö

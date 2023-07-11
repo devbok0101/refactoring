@@ -163,12 +163,6 @@ bsrc/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with
 Q.idea/sonarlint/securityhotspotstore/f/2/f2d4e3e34adb8f482e9732f10c4c06386b0a8f83,4/6/46836116da93e9ba63182e096cd203740466b369
 y
 Isrc/main/java/me/whiteship/refactoring/_06_mutable_data/package-info.java,e/5/e54eb3edae81ba8858c1c1424cb2512e92a7a8d8
-ã
-[src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Employee.java,f/9/f9bab42d285f062a36f3ebbd4a06385f4f8bbe2b
-ç
-]src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Department.java,b/e/beb243288d38b930909b2e9f78e096921d87c95e
-x
-Hsrc/main/java/me/whiteship/refactoring/_20_large_class/package-info.java,f/b/fb2194007f86a9300a7f0fba82efbb8c4fb7ee80
 Ç
 Rsrc/main/java/me/whiteship/refactoring/_05_global_data/_01_before/Thermostats.java,e/1/e1f74dd93a946bc6441b8afa5bffd040b4f25055
 {

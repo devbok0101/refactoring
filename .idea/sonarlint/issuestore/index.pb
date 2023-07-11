@@ -401,14 +401,10 @@ fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_specia
 lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/CategoryItem.java,d/4/d497da27d86b113445e5be5d8212e980cf1a8a5c
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
-ç
-]src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Department.java,b/e/beb243288d38b930909b2e9f78e096921d87c95e
 ö
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailMessage.java,5/7/57e34773185e77b72dc206d7e270cb50e752d74d
 ö
 jsrc/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces/EmailService.java,9/3/9340c54f8209ad1c3c932d052b4a62478adad2f9
-ã
-[src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass/Employee.java,f/9/f9bab42d285f062a36f3ebbd4a06385f4f8bbe2b
 x
 Hsrc/main/java/me/whiteship/refactoring/_23_refused_bequest/Employee.java,4/0/40ee23c41159e6584ef9bbc72fcbbd87996a2197
 x
@@ -463,8 +459,6 @@ z
 Jsrc/main/java/me/whiteship/refactoring/_17_message_chain/package-info.java,2/0/206e37fb8c56435f4c7a6f7869e6620c9fd247fe
 w
 Gsrc/main/java/me/whiteship/refactoring/_18_middle_man/package-info.java,b/e/be625e457cb6af1bc5a553897b7d8ff9986e5b6b
-x
-Hsrc/main/java/me/whiteship/refactoring/_20_large_class/package-info.java,f/b/fb2194007f86a9300a7f0fba82efbb8c4fb7ee80
 w
 Gsrc/main/java/me/whiteship/refactoring/_22_data_class/package-info.java,f/3/f3dbea2ac6d62476610d37cfd2168bd6c97dc7e9
 u

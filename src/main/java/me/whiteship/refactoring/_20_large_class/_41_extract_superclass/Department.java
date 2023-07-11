@@ -2,7 +2,7 @@ package me.whiteship.refactoring._20_large_class._41_extract_superclass;
 
 import java.util.List;
 
-public class Department {
+public class Department extends Party{
 
     private String name;
 

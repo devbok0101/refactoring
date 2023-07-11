@@ -395,8 +395,6 @@ Zsrc/test/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable/Befo
 fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BillingPlan.java,8/c/8cfc5edab61b49160465ed3d991f38f73ec10093
 œ
 lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/CategoryItem.java,d/4/d497da27d86b113445e5be5d8212e980cf1a8a5c
-‰
-Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
 7
 HELP.md,1/a/1a273f73b7a477b0745593641bd708a6182c7ad5
 {

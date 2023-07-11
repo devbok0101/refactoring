@@ -443,8 +443,6 @@ Q.idea/sonarlint/securityhotspotstore/3/d/3d2c28c31e45deea74606ffaef0445063cc451
 Q.idea/sonarlint/securityhotspotstore/9/5/959cf4759bd2c11daf75fdc18949dc8b4867f0c3,5/f/5f27d3b14125edae383e881591e2cfdda32e64a8
 Å
 Q.idea/sonarlint/securityhotspotstore/d/f/dfa2f059de0c2a81d1683aba006544bc72d62028,3/d/3d22e5df62e3c20fffdbb46d2a8fe5e10a65fe2d
-â
-Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
 Å
 Q.idea/sonarlint/securityhotspotstore/b/a/bab5d10c1160611bf68da3cfddb2ee82dfc93a0c,7/c/7c7d478903831adcd25873c9857c8089448ce033
 u

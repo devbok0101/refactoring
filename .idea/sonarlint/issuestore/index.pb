@@ -399,10 +399,6 @@ Zsrc/test/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable/Befo
 fsrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BillingPlan.java,8/c/8cfc5edab61b49160465ed3d991f38f73ec10093
 ú
 lsrc/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/CategoryItem.java,d/4/d497da27d86b113445e5be5d8212e980cf1a8a5c
-w
-Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
-{
-Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
 â
 Ysrc/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion/Customer.java,5/f/5fac7231319cfc2aa4dcdc8be4d2b2c601e567ad
 ç
@@ -503,8 +499,6 @@ hsrc/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_var
 Ysrc/main/java/me/whiteship/refactoring/_02_duplicated_code/_01_before/StudyDashboard.java,3/d/3d7604520667718d76543be343319b590677c9af
 ò
 hsrc/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query/StudyDashboard.java,c/3/c3e87dad11014e9a261a2570def9e33e71fa912d
-v
-Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
 ö
 jsrc/test/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate/ScrollTest.java,a/9/a90fb27d7e796ee048045b4f3bcac5c793dd02ae
 á

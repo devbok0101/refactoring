@@ -2,7 +2,7 @@ package me.whiteship.refactoring._19_insider_trading;
 
 import java.time.LocalDate;
 
-public class Ticket {
+public class  Ticket {
 
     private LocalDate purchasedDate;
 
@@ -19,5 +19,10 @@ public class Ticket {
 
     public boolean isPrime() {
         return prime;
+    }
+
+    public boolean isFastPass() {
+        LocalDate earlyBirdDate = LocalDate.of(2022, 1, 1);
+        return this.prime && this.purchasedDate.isBefore(earlyBirdDate);
     }
 }

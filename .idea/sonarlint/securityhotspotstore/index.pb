@@ -229,10 +229,6 @@ w
 G.idea/sonarlint/issuestore/c/9/c9062608b6f04bed06c03002884f3cf26a8b1123,a/d/ade86234ffef3e3358111f7bf6dea76ea4ea8b3f
 |
 Lsrc/main/java/me/whiteship/refactoring/_02_duplicated_code/package-info.java,d/5/d52ce835dce998e2cf94e73af3b0a8c77262541f
-w
-Gsrc/main/java/me/whiteship/refactoring/_19_insider_trading/CheckIn.java,2/f/2fa23391393ddd064592d9281cd610636fdd0450
-v
-Fsrc/main/java/me/whiteship/refactoring/_19_insider_trading/Ticket.java,1/6/16bdfa3f007d0e68d6d103c31284d1de2085a961
 õ
 ksrc/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case/BasicBillingPlan.java,5/a/5a839d17d7413f230dbfdb82d4e9fff2bf1cfba2
 ñ
@@ -415,8 +411,6 @@ _src/test/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase/Pri
 Q.idea/sonarlint/securityhotspotstore/3/3/33859bc002fb5629843ba44cd8c7a038e9a6188a,c/b/cb325737d4e9904a052cab9a267e47ef525129e1
 Å
 Q.idea/sonarlint/securityhotspotstore/7/3/735e3f074b07ee0bbae72745641330d05dc25bf4,9/7/9761e9515e80b050c49d85e381a70ada68f117d3
-{
-Ksrc/test/java/me/whiteship/refactoring/_19_insider_trading/CheckInTest.java,0/d/0d3800eaf53e31f3bb94eb13238ac49e8992e53d
 Å
 Q.idea/sonarlint/securityhotspotstore/d/0/d03c7bd2241cd43601c53708820a5344c5d983dd,1/6/167b6cec49d8b5a74a79c24f6778a36d6adbcf3b
 Å
